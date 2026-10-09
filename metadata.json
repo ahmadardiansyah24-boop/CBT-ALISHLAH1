@@ -1,0 +1,7 @@
+{
+  "name": "CBT Sekolah Pro - Aplikasi Ujian Sekolah & Madrasah",
+  "description": "Sistem Computer Based Test (CBT) profesional untuk sekolah dan madrasah dengan pemantauan proktor real-time, anti-cheating, bank soal formula & gambar, dan analisis otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
